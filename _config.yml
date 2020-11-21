@@ -35,7 +35,7 @@ plugins:
 
 header_pages: 
   - aboutme.html
-  - contact.html
+  - projects.html
   
  
 
