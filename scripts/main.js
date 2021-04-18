@@ -43,7 +43,7 @@ rhit.ProjectManager = class {
 
 	_createCard(data){
 		return htmlToElement(
-		`<div class="card projectCard">
+		`<div class="card projectCard ">
 			<div class="imageContainer">
 				<img class="card-img-top projectImage" src="${data.imageSrc}" alt="Card image cap">
 			</div>

@@ -94,19 +94,19 @@ a .card-link{
 .projectCard{
     flex-basis: 33.3%;
     margin-right: 10px;
-    max-width: 90%;
+    max-width: 18rem;
 }
 
 .projectImage{
     height:100%;
-    
+    width: 100%;
+    object-fit:cover;
 }
 
 .imageContainer{
-    height: 200px;
+    height: 210px;
      width: 100%;
      overflow: hidden;
-    overflow: hidden;
 }
 
 
