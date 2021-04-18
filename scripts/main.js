@@ -8,8 +8,17 @@
 
 /** namespace. */
 var rhit = rhit || {};
-rhit.projects=[{name:"Joust", description:"Remake of the classic arcade game joust", imageSrc:"./Image//Joust.JPG", 
-}, {name:"Witcher 3.5", description:"A 2D pixel rpg based on the popular video game series The Witcher", imageSrc:"./Image//Witcher3.5.JPG"}]
+rhit.projects=[{name:"Joust", description:"Remake of the classic arcade game Joust.", 
+imageSrc:"./Image//Joust.JPG", 
+SrcCode:"",
+detailUrl:""
+}, 
+
+{name:"Witcher 3.5", description:"A 2D pixel rpg based on the popular video game series The Witcher.",
+imageSrc:"./Image//Witcher3.5.JPG",
+SrcCode:"",
+detailUrl:""
+}]
 
 /** globals */
 rhit.variableName = "";
