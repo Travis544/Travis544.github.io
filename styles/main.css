@@ -33,7 +33,7 @@ nav i{
 }
 
 #textBottom{
-    margin-bottom: 5px;
+    margin-bottom: 2px;
 }
 
 #resumeLink{
@@ -78,4 +78,45 @@ a .card-link{
 #socialTitle{
     font-size: 22px;
     margin-bottom: 2px;
+}
+
+#projectPage .mainTitle{
+    font-weight: bold;
+}
+
+#projectListContainer{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    
+}
+
+.projectCard{
+    flex-basis: 33.3%;
+    margin-right: 10px;
+    max-width: 90%;
+}
+
+.projectImage{
+    height:100%;
+    
+}
+
+.imageContainer{
+    height: 200px;
+     width: 100%;
+     overflow: hidden;
+    overflow: hidden;
+}
+
+
+@media (max-width: 995px) {
+   .imageContainer, .projectImage{
+       height:auto;
+   }
+
+   .projectCard{
+    flex-basis: auto;
+   }
+   
 }
