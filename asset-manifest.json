@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.2e0b411d.css",
-    "main.js": "/react-gh-pages/static/js/main.ee069bea.js",
-    "static/js/787.f46b24b8.chunk.js": "/react-gh-pages/static/js/787.f46b24b8.chunk.js",
-    "static/media/squirrelGame.PNG": "/react-gh-pages/static/media/squirrelGame.c54cb7e32fb5ceebc2bb.PNG",
-    "static/media/barteringSystem.jpg": "/react-gh-pages/static/media/barteringSystem.3a5102647acb2fd9f699.jpg",
-    "static/media/EventAndPrevent.jfif": "/react-gh-pages/static/media/EventAndPrevent.8fb4c574afb280b8e4a4.jfif",
-    "static/media/QuestionAI.jpg": "/react-gh-pages/static/media/QuestionAI.c0cecd74f647816c6587.jpg",
-    "static/media/SurpriseDiscovery.jpg": "/react-gh-pages/static/media/SurpriseDiscovery.3bf38de3194e534ed7eb.jpg",
-    "static/media/ExamReview.jfif": "/react-gh-pages/static/media/ExamReview.e7c90ab004ea185c16dc.jfif",
-    "static/media/galaxy.jpg": "/react-gh-pages/static/media/galaxy.44a9c6c92d2a584667e1.jpg",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.2e0b411d.css.map": "/react-gh-pages/static/css/main.2e0b411d.css.map",
-    "main.ee069bea.js.map": "/react-gh-pages/static/js/main.ee069bea.js.map",
-    "787.f46b24b8.chunk.js.map": "/react-gh-pages/static/js/787.f46b24b8.chunk.js.map"
+    "main.css": "/static/css/main.2e0b411d.css",
+    "main.js": "/static/js/main.817e4f0b.js",
+    "static/js/787.f46b24b8.chunk.js": "/static/js/787.f46b24b8.chunk.js",
+    "static/media/squirrelGame.PNG": "/static/media/squirrelGame.c54cb7e32fb5ceebc2bb.PNG",
+    "static/media/barteringSystem.jpg": "/static/media/barteringSystem.3a5102647acb2fd9f699.jpg",
+    "static/media/EventAndPrevent.jfif": "/static/media/EventAndPrevent.8fb4c574afb280b8e4a4.jfif",
+    "static/media/QuestionAI.jpg": "/static/media/QuestionAI.c0cecd74f647816c6587.jpg",
+    "static/media/SurpriseDiscovery.jpg": "/static/media/SurpriseDiscovery.3bf38de3194e534ed7eb.jpg",
+    "static/media/ExamReview.jfif": "/static/media/ExamReview.e7c90ab004ea185c16dc.jfif",
+    "static/media/galaxy.jpg": "/static/media/galaxy.44a9c6c92d2a584667e1.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.2e0b411d.css.map": "/static/css/main.2e0b411d.css.map",
+    "main.817e4f0b.js.map": "/static/js/main.817e4f0b.js.map",
+    "787.f46b24b8.chunk.js.map": "/static/js/787.f46b24b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e0b411d.css",
-    "static/js/main.ee069bea.js"
+    "static/js/main.817e4f0b.js"
   ]
 }
