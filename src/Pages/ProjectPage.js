@@ -33,23 +33,19 @@ const ProjectPage = () => {
     console.log(iterationCount)
     for(let i =0;i<iterationCount;i++){
       let count = COLUMN_COUNT
-      if (i== iterationCount-1){
+      if (i == iterationCount-1){
         let remainder = projectData.length%COLUMN_COUNT
-        if(remainder != 0){
+        if(remainder !== 0){
           count = remainder
         }
       }
 
-
       let elem = (<div className = "row"  >
           {generateRow(currentIndex, count)}
       </div>)
-
- 
       result.push(elem)
       currentIndex = currentIndex + count
     }
-
     return result
     
   }
@@ -62,14 +58,12 @@ const ProjectPage = () => {
   return (
 
     <div id ="projectPage">
-
-    <div id="projectCards">
-    {
-     
-    generateProjectCard()
-    }
-    </div>
-  
+      <div id="projectCards">
+      {
+        generateProjectCard()
+      }
+      </div>
+    
     <Footer/>
     </div>
   );

@@ -6,6 +6,8 @@ import HomeCard from '../Components/HomeCard'
 import Directory from '../Components/Directory'
 import Footer from "../Components/Footer"
 import UpdateLogs from '../Components/UpdateLogs';
+import "../App.css";
+
 const HomePage=()=>{
     const description="Hi I'm Travis Zheng. I graduated from Rose-Hulman Institute Of Technology studying Computer Science. This is my personal profolio showcasing the projects that I have done or I am currently working on."
 
